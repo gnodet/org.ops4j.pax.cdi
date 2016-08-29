@@ -26,7 +26,6 @@ import org.jboss.weld.interceptor.proxy.LifecycleMixin;
 import org.jboss.weld.serialization.spi.ProxyServices;
 import org.jboss.weld.util.Types;
 import org.ops4j.pax.cdi.spi.util.Exceptions;
-import org.ops4j.pax.swissbox.core.BundleClassLoader;
 import org.osgi.framework.Bundle;
 import org.osgi.framework.FrameworkUtil;
 
